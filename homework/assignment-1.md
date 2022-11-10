@@ -23,12 +23,11 @@
 
 4. The origin of words is not part of the language faculty.
 
-   **True** In human language words are *arbitrary* and do not have a natural meaning
-   or origin.
+   **True** Language faculty is what we know when we **know** a language. The origin of the words are external to that knowledge and may be studied as part of **historical linguistics** but are not directly linked to knowledge of a language.
 
 5. Phonetics is a field that examines only the way linguistic sounds are produced.
 
-   **True** In phonetics we study how sounds are *produced* and *perceived*.
+   **False** In phonetics we study how sounds are *produced* and *perceived*.
 
 > **B** Choose two linguistic phenomena. Describe them shortly (4-5 sentences),
   provide examples  and determine to which field(s) they belong (they could be related
@@ -41,4 +40,10 @@
    turning nouns into verbs. This *verbification* is definitely part of the study of
    **morphology** as it has to do with word formation, and is not detached from the meaning of the word, so also would be studied in **semantics**.
 
-2. 
+2. **Code mixing** - Using constructs from one language when speaking another. This is
+   common during the language development of bilingual children. This can be expressed
+   using a word from another language in a sentence, such as "Who did you vote for i
+   the *bechirot* last Tuesday?". It can alternatively be expressed as grammar from
+   another language, as in "Look at that car purple", when in Hebrew the descriptive
+   color would come after the noun, while in English it comes before. This would be
+   studied as part of **language acquisition**.
