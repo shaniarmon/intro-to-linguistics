@@ -42,7 +42,7 @@
 
 2. **Code mixing** - Using constructs from one language when speaking another. This is
    common during the language development of bilingual children. This can be expressed
-   using a word from another language in a sentence, such as "Who did you vote for i
+   using a word from another language in a sentence, such as "Who did you vote for in
    the *bechirot* last Tuesday?". It can alternatively be expressed as grammar from
    another language, as in "Look at that car purple", when in Hebrew the descriptive
    color would come after the noun, while in English it comes before. This would be
