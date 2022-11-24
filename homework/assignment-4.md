@@ -58,9 +58,9 @@ $
 
 * $\t{recognizable}$
 
-  $\root{recognize}\suffix{able}$
+  $\root{recogniz}\suffix{able}$
 
-  * **root** $\t{recognize}$
+  * **root** $\t{recogniz}$
   * **suffix**  $\t{-able}$ This is a derivational affix
 
 * $\t{constructivism}$
