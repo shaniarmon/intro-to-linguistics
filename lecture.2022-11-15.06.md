@@ -6,7 +6,7 @@ $
 \gdef\bempty {\boxed{\text{\hspace{2em}\vphantom{d}}}}
 $
 
-# Linguistics - Lesson 5 - 2022/11/10
+# Linguistics - Lesson 6 - 2022/11/15
 
 ### Bundles of features/cluster of properties
 

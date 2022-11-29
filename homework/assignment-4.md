@@ -19,7 +19,7 @@ $
 > Examine the following words:
 > 
 > *sharpeners, nationalizes,  misleading , recognizable, constructivism, irregularities, misinterpreted*
-> 1. Divide the following English words into morphemes. Indicate the stem(s), root and suffixes/prefixes (there could be more than one option). 
+> 1. Divide the following English words into morphemes. Indicate the stem(s), root and suffixes/prefixes (the   re could be more than one option). 
 >
 > 2. Indicate for **each** affix whether it is inflectional or derivational (no need to explain at this stage). 
 >
